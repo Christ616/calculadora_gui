@@ -1,0 +1,6 @@
+#ifndef CALCULADORA_GUI_LIBRARY_H
+#define CALCULADORA_GUI_LIBRARY_H
+
+void hello(void);
+
+#endif //CALCULADORA_GUI_LIBRARY_H
